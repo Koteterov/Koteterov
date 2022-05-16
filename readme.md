@@ -1,3 +1,3 @@
-I am interested in Front-End Development with JS.
+I am interested in Front-End Development. Well, serious JavaSript enthusiast...
 You can contact me at:
 koteterov@yahoo.com
