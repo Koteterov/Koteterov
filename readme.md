@@ -6,7 +6,9 @@
 * Lit HTML - client-side rendering 
 * WebPack - module bundler 
 * Express.js - web framework for Node.js
-* Handlebars.js - templates compilier 
+* Handlebars.js - templates compilier
+* MongoDB - document-oriented database
+* Mongoose - Node.js-based Object Data Modeling (ODM) library for MongoDB.
 ## 👨‍🎓 My projects on Internet:
 * 👉 : https://wine-catalog-project.web.app
 * 👉 : https://wine-store-project.web.app
