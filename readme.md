@@ -7,7 +7,7 @@
 * WebPack - module bundler 
 * Express.js - web framework for Node.js
 * Handlebars.js - templates compilier
-* MongoDB - document-oriented database
+* MongoDB - document-oriented  NoSQL database
 * Mongoose - Node.js-based Object Data Modeling (ODM) library for MongoDB.
 ## 👨‍🎓 My projects on Internet:
 * 👉 : https://wine-catalog-project.web.app
