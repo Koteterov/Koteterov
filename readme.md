@@ -9,7 +9,8 @@
 * Handlebars.js - templates compilier
 * MongoDB - document-oriented  NoSQL database
 * Mongoose - Node.js-based Object Data Modeling (ODM) library for MongoDB.
-## 👨‍🎓 My projects on Internet:
+* JSON Web Token - to share security information between a client and a server
+## :briefcase: My projects on Internet:
 * 👉 : https://wine-catalog-project.web.app
 * 👉 : https://wine-store-project.web.app
 ## You can contact me at 👇:
