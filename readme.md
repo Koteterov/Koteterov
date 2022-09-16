@@ -2,11 +2,11 @@
 ## ⚒️ Some of the technologies I have studied and used
 * Mocha together with assertion library Chai - test framework on Node.js 
 * Playwright - end-to-end testing  
-* Page.js - client-side router 
-* Lit HTML - client-side rendering 
+* Page.js - for client-side routering 
+* Lit HTML - for client-side rendering 
 * WebPack - module bundler 
 * Express.js - web framework for Node.js
-* Handlebars.js - templates compilier
+* Handlebars.js - js library for webpage templates
 * MongoDB - document-oriented  NoSQL database
 * Mongoose - Node.js-based Object Data Modeling (ODM) library for MongoDB.
 * JSON Web Token - to share security information between a client and a server
