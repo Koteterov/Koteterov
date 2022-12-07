@@ -14,10 +14,10 @@
 * JSON Web Token - to share security information between a client and a server
 ## 💼 My projects on Internet: 
 In case you decide to visit the links below, please be patient to wait for the service restart… 
-* 👉 : https://angular-project-wine.web.app
-* 👉 : https://wine-store-project.web.app 
-* 👉 : https://mpa-wine.onrender.com
-* 👉 : https://wine-catalog-project.web.app
+* Angular single page application 👉 : https://angular-project-wine.web.app
+* JavaScript single page application using Page.js and Lit HTML 👉 : https://wine-store-project.web.app 
+* Express.js multi page application - server side rendered 👉 : https://mpa-wine.onrender.com
+* JavaScript single page application using Page.js and Lit HTML 👉 : https://wine-catalog-project.web.app
 ## You can contact me at 👇:
 For more than 20 years now I just cannot leave the old YAHOO! 😄
 * ✉️ koteterov@yahoo.com
