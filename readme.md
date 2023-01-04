@@ -1,5 +1,6 @@
 # I am interested in Front-End Development. Well, a JavaSript enthusiast...
 ## ⚒️ Some of the technologies I have studied and used
+* React - the JavaScript library created by Facebook (Meta)
 * Angular - the well-known framework of Google
 * TypeScript - a syntactic superset of JavaScript 
 * Mocha together with assertion library Chai - test framework on Node.js 
